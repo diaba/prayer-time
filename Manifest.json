@@ -1,0 +1,11 @@
+{
+    "name": "Prayer time",
+    "version": "1.0.0",
+    "description": "Islamic prayer Time",
+    "manifest_version": 1,
+    "author": "Habsatou War",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Prayer time"
+    }
+}
